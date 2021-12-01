@@ -10,6 +10,7 @@
 
 .container-fluid{
   padding: 3% 15%;
+  margin-bottom: -9%;
 }
 
 .nav-item{
@@ -40,11 +41,15 @@
 .title-image{
   width: 60%;
   transform: rotate(20deg);
-  margin: 7%
+  margin: 7%;
+  margin-left: 20%
 }
 /* Features */
 #features{
   padding: 7% 15%;
+  background-color: #fff;
+  position: relative;
+  z-index: 1;
 }
 .feauture-box{
   text-align: center;
@@ -95,4 +100,24 @@
 
 .btn-block{
   width: 90%;
+}
+
+.card-footer{
+  background-color: rgba(0,0,0,0);
+  border-top: 1px solid rgba(0,0,0,0);
+  padding: 1rem 1rem;
+}
+.card-body{
+  height: 14rem;
+}
+.card-body p{
+  margin:0.5rem;
+}
+.card-p{
+  display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: center;
 }
