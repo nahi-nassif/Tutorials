@@ -1,0 +1,8 @@
+p, li {
+  color:#008000;
+}
+h1:hover {
+  color: gold;
+  text-decoration: underline red;
+  font-size: xxx-large;
+}

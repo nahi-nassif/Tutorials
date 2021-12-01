@@ -1,0 +1,18 @@
+.bground {
+  background-color: #FFF3E4;
+}
+
+.size {
+  width: 200px;
+  height: 200px;
+}
+
+.position{
+  display: block;
+  position: absolute;
+  float: left;
+}
+
+body{
+  margin: 0;
+}

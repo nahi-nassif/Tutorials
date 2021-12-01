@@ -1,0 +1,97 @@
+.montserrat{
+  font-family: 'Montserrat-Thin', sans-serif;
+  font-weight: 900;
+  line-height: 1.5;
+}
+
+.padding-5rem-top{
+  padding-top: 5rem !important
+}
+
+.container-fluid{
+  padding: 3% 15%;
+}
+
+.nav-item{
+  padding-right: 20px ;
+}
+
+#title{
+  color: #fff;
+}
+
+/* Navigation Bar */
+.navbar{
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.navbar-brand{
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+/* Container */
+.container{
+  padding-left: 0;
+}
+
+/* Title Image */
+.title-image{
+  width: 60%;
+  transform: rotate(20deg);
+}
+/* Features */
+#features{
+  padding: 7% 15%;
+}
+.feauture-box{
+  text-align: center;
+  padding: 5%;
+}
+
+.icon{
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+
+.icon:hover{
+  color: #ff4c68;
+}
+
+/* Testemonials */
+#testimonials{
+
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff;
+}
+.carousel-item{
+  padding: 7% 15%;
+}
+.testimonials-image{
+  width: 20%;
+  border-radius: 100%;
+  margin: 20px
+}
+
+#press{
+  text-align: center;
+  background-color: #ef8172;
+  padding-bottom: 3%;
+}
+.press-image{
+  width: 9%;
+  margin: 20px 20px 30px;
+}
+.btn-dark:hover{
+  color: #ff4c68;
+}
+
+.card{
+  margin: 15px auto;
+}
+
+.btn-block{
+  width: 90%;
+}
